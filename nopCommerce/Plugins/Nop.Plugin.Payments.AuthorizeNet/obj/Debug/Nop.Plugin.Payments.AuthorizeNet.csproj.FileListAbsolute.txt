@@ -1,0 +1,10 @@
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

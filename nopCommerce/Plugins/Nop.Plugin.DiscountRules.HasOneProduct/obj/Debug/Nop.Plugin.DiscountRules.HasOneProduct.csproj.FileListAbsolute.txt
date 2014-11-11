@@ -1,0 +1,9 @@
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

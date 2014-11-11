@@ -1,0 +1,11 @@
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Views\MiscWebServices\Configure.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\web.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\logo.jpg
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

@@ -1,0 +1,11 @@
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+C:\WebApps\nopcommeranceSource\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+C:\WebApps\nopcommeranceSource\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
